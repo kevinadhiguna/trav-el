@@ -10,4 +10,8 @@ Here are how Trav.el looks : <br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/trav-el/master/demo/4.png" width="90%"></img> <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/trav-el/master/demo/5.png" width="90%"></img>
 
+## Reference
+
+- [Build A Travel Agency Theme With Materialize CSS 1.0.0 by Traversy Media](https://youtu.be/MaP3vO-vEsg)
+
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/trav-el)](https://github.com/kevinadhiguna)
